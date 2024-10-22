@@ -2,7 +2,7 @@
 ====
 # ⚡ At glance about me
 
-I am an Informatics Engineering student at [Mercu Buana University](https://www.mercubuana.ac.id)
+I am an Informatics Engineering student at [Mercu Buana University](https://www.mercubuana.ac.id) <br />
 I like a few things, like Linux, Docker, Kubernetes, and Java.
 
 <!--
