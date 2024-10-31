@@ -3,7 +3,7 @@
 # ⚡ At glance about me
 
 I am an Informatics Engineering student at [Mercu Buana University](https://www.mercubuana.ac.id) <br />
-I like a few things, like Linux, Docker, Kubernetes, and Java.
+I like a few things, like Linux, Docker, Kubernetes, Java, and Python.
 
 <!--
 **Nando-suka/Nando-suka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
