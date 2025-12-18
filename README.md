@@ -4,6 +4,7 @@
 
 I am an Informatics Engineering student at [Mercu Buana University](https://www.mercubuana.ac.id) <br />
 I like a few things, like Linux, Docker, Kubernetes, Java, and Python.
+I'm currently in my fifth semester of college.
 
 I'm a passionate student and open to collaborate with open source project.
 
