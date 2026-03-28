@@ -4,11 +4,11 @@
 
 I am an Informatics Engineering student at [Mercu Buana University](https://www.mercubuana.ac.id) <br />
 I like a few things, like Linux, Docker, Backend, Devops, and Cyber Security.
-I'm currently in my fifth semester of college.
+I'm currently in my sixth semester of college.
 
-I'm a passionate student and open to collaborate with open source project.
+I'm oridnary student and excited if I'd open to collaborate with open source project.
 
-Also currently I'm deep into learning golang and ruby.
+Also currently I'm still dive into learning golang and ruby, and Angular JS
 
 <!--
 **Nando-suka/Nando-suka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
