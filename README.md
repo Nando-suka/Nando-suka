@@ -6,7 +6,7 @@ I am an Informatics Engineering student at [Mercu Buana University](https://www.
 I like a few things, like Linux, Docker, Backend, Devops, and Cyber Security.
 I'm currently in my sixth semester of college.
 
-I'm oridnary student and excited if I'd open to collaborate with open source project.
+I'm ordinary student and excited if I'd open to collaborate with open source project.
 
 Also currently I'm still dive into learning golang and ruby, and Angular JS
 
